@@ -1,0 +1,16 @@
+com\test\places\model\AuthenticationRequest.class
+com\test\places\controller\PlacesController.class
+com\test\places\repository\UserRepository.class
+com\test\places\repository\PlacesRepository.class
+com\test\places\config\JwtUtil.class
+com\test\places\config\CustomUserDetailService.class
+com\test\places\controller\AuthenticationController.class
+com\test\places\model\DataAccessObjectUsers.class
+com\test\places\model\DataTransferObjectUsers.class
+com\test\places\model\Places.class
+com\test\places\model\AuthenticationResponse.class
+com\test\places\config\SecurityConfigurer.class
+com\test\places\config\CustomJwtAuthenticationFilter.class
+com\test\places\controller\PlacesHandler.class
+com\test\places\config\JwtAuthenticationEntryPoint.class
+com\test\places\PlacesApplication.class
